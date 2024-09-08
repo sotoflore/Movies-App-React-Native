@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 
-[!image app]()
+![image app](https://github.com/sotoflore/Movies-App-React-Native/blob/main/src/image/app-movie.png)
 
 
 # Getting Started
